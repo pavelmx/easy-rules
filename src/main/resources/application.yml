@@ -1,0 +1,5 @@
+rules:
+  location: G:\Java\IDEA projects\easy-rules\src\main\resources\rules
+
+server:
+  port: 8090

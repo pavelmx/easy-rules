@@ -1,0 +1,13 @@
+name: "rule1"
+description: "desc"
+priority: 1
+condition: "nikita.age > 2"
+actions:
+  - "nikita.setAge(9);"
+---
+name: "rule2"
+description: "desc"
+priority: 2
+condition: "mark.age > 2"
+actions:
+  - "mark.setAge(5);"
